@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d2f3eb7.chunk.css",
+    "main.js": "/static/js/main.8c61bd79.chunk.js",
+    "main.js.map": "/static/js/main.8c61bd79.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f924df9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f924df9.js.map",
+    "static/js/2.234d93c2.chunk.js": "/static/js/2.234d93c2.chunk.js",
+    "static/js/2.234d93c2.chunk.js.map": "/static/js/2.234d93c2.chunk.js.map",
+    "static/js/3.864a8f31.chunk.js": "/static/js/3.864a8f31.chunk.js",
+    "static/js/3.864a8f31.chunk.js.map": "/static/js/3.864a8f31.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4d2f3eb7.chunk.css.map": "/static/css/main.4d2f3eb7.chunk.css.map",
+    "static/js/2.234d93c2.chunk.js.LICENSE.txt": "/static/js/2.234d93c2.chunk.js.LICENSE.txt",
+    "static/media/accordion.css": "/static/media/Chevron-up-primary.39e04353.svg",
+    "static/media/App.css": "/static/media/lloyds_bank_jack-mediumWEB.6ae76da6.woff",
+    "static/media/p0400lnk500a_new-1560877171.439cb8a6.png": "/static/media/p0400lnk500a_new-1560877171.439cb8a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f924df9.js",
+    "static/js/2.234d93c2.chunk.js",
+    "static/css/main.4d2f3eb7.chunk.css",
+    "static/js/main.8c61bd79.chunk.js"
+  ]
+}
